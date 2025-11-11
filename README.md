@@ -84,6 +84,9 @@ Output Graph
 
 Tablular Column
 
+<img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/9b1b3d6b-cb5a-4538-921e-359f6c1cc1b0" />
+
+
 
 Result
 
